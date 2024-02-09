@@ -77,7 +77,7 @@ En está sección, el examen presenta 03 textos, que corresponde lecturas para n
 
 ## Comprensión Oral
 ---
-En está sección, el examen presenta 03 audios, que corresponde para nivel basico, intermedio y avanzando. Además, cuenta con un puntaje del 20%. Se sugiere manejar practicar constantemente audios, usualmente las preguntas estan orientas al entendimiento del audio.
+En está sección, el examen presenta 03 audios, que corresponde para nivel basico, intermedio y avanzando. Además, cuenta con un puntaje del 20%. Se sugiere practicar constantemente audios para entrenar el oido.
  
 
 ## Producción Escrita
@@ -86,16 +86,16 @@ En está sección, el examen presenta la producción de un texto al menos con 12
 
 Se sugiere manejar practicar constantemente con los siguientes temas:
  
-- [My family](#my-family)
-- My daily routine
-- My hobby or my free time
+- [My Family](#my-family-160-words)
+- [My Daily Routine](#my-daily-routine-180-words)
+- [My Hobby Or My Free Time](#my-hobby-or-my-free-time-150-words)
 - Our Vacation
 - Preparaing food
 - The House	
 
-### My family
+### My Family **(160 words)**
 ---
-Hi, nice to meet you, my name is Ricardo. I am from Peru. I am thirty-two years old. I live with my wife and my daughter in Chimbote City. Their names are Danna and Lola. We have a small dog. His name is Michael. It’s very funny.
+Hi, nice to meet you, my name is Ricardo. I am from Peru. I am thirty-two years old. I live with my wife and my daughter in Chimbote City. Their names are Danna and Lola. We have a small dog. His name is Michaell, it’s very funny.
 
 I am an engineer. I work in a big Casino in the center of Chimbote. I love Mexican food. I can play soccer, but I can't play tennis. I usually play soccer with my friends on the weekend. 
 
@@ -103,12 +103,33 @@ My wife Danna is an engineer too, she works in a big university near Chimbote. S
 
 My daughter Lola is a smart student. She studies at school San Jose near my house. She can swim in the pool. She often swims on the Saturday's mornings.
 
-My family is very important to me. We are a happy family.
+My family is very important to me. We are a happy family. Thanks, bye.
 
 
-
-
-
-
-## Producción Oral
+### My Daily Routine **(180 words)**
 ---
+Hi, my name is Ricardo. Well, from Monday to Friday, my daily routine is always the same. I usually get up six o'clock in the morning. I often go to gym to exercise for twenty minutes. Then, I come back home, take a shower, get dressed and I eat breakfast for fifteen minutes. My breakfast consists of an apple, a cup coffee with milk and some eggs. 
+
+I often catch the bus near my house to go to work. I usually arrive at the office at eight fifty, because I start work at nine o'clock.
+My workdays are always interesting. I am a software engineer. I like my job. I sometimes eat lunch out of the office between 2 PM and 3 PM. I often come back home at 7 PM.
+
+In the evening, I usually eat dinner and watch TV with family. Finally, I get bed at 11 PM.
+
+Weekend for me, are usually the same. I often go to the movies my family on Saturdays. Also, we always eat lunch out of the home on Sunday. 
+
+Thanks, bye.
+
+
+### My Hobby Or My Free Time **(150 words)**
+---
+Hi, nice meet you, my name is Ricardo. Well, I always do the same thing in my free time.
+
+I like playing soccer on the weekend, reading a book and watching a good movie every day.
+
+I go to the park near my house to play soccer on Saturday mornings. I usually play soccer with my friends from 7 AM to 9 AM. I think playing soccer is good for my body.
+
+I often read a software engineer book in the evening. They are very entertaining to me. I usually read from 6PM to 7PM. I like to read a lot because it is very important for my training.
+
+I always watch a good movie with my wife and my daughter before sleeping, but we sometimes go to movies on Saturday's or Sunday’s afternoon. We really like watching drama movies because always they provide a good storyline. 
+
+Thank you, bye.
