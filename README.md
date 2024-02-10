@@ -20,7 +20,9 @@ Ver documentación de repaso [Aquí](https://github.com/RJARAG-92/unmsm.english.
 - [Comprensión Oral](#comprensión-oral)
 - [Producción Escrita](#producción-escrita)
 - [Comprensión Oral](#producción-oral)
+- [Ejercicios Resueltos](#ejercicios-resueltos)
 - [Conclusiones](#Conclusiones)
+
 
 ## Estructura del Examen
 ---
@@ -158,3 +160,10 @@ Thank you, bye.
 Hi, nice to meet you. My name is Ricardo. Well, my workday is always the same, but often it is very interesting. I am a software engineer. I work in a big Casino in the center of Chimbote. I start work at eight in the morning. First, I usually check my email every morning. Also, I have a team of software developers for the projects. Even I write code when it is necessary. I often eat lunch in the office at 2 pm, but when there is a birthday, I always eat lunch out of the office with the team between 1 pm and 3 pm. I often meeting with important customers in the afternoon. 
 I usually come back home at 8 pm. I really like my job.
 Thank you, bye
+
+## Ejercicios Resueltos
+---
+- [Lesson 1 & 2 (A1)](https://docs.google.com/forms/d/e/1FAIpQLSeC0ercS5lUaB_lj0YlhKf4NxU5wQbpgPL7khLKfNk1K-uS7A/viewscore?viewscore=AE0zAgBIaHlk837XTLUVLqA-jKld630eMKWHskuNsOKq0W3mbIJNLAoJKOPAGia_QQUyPW4) 
+- [Lesson 3 & 4 (A1)]
+- [Lesson 9 & 10](https://docs.google.com/forms/d/e/1FAIpQLSeWPAz8XndIBXk3nOOdtI6vehOXRHhXo5P9jGGdChfhVmjeeg/viewscore?viewscore=AE0zAgD_NR8yQ3A73xh-uVZWS5iX7-UIq1RdwjMMk8miqEGtrMoKa5WaZCHFsrsTT61cVcs)
+- [Lesson 11 & 12](https://docs.google.com/forms/d/e/1FAIpQLSfskZ8oP0TtK_GJRWrQlt_4T1RLlLdo8bI3N_VGxaaf8uX4iw/viewscore?viewscore=AE0zAgC1bY594ZlxISwUjfaGzwJIbVjVAzHRYtnGtBCPyNBdgtKsLlVTqGLZROerqbb44jY)
