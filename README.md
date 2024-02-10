@@ -40,10 +40,12 @@ El tabla siguiente se visualiza la distribución de la calificación de cada sub
     <td style="width: 25%;">Oral</td>
   </tr>
     <tr>
-    <td style="width: 25%;">40%</td>
-    <td style="width: 25%;">20%</td>
-    <td style="width: 25%;">20%</td>
-    <td style="width: 25%;">20%</td>
+    <td style="width: 25%;">40%  <br/> (30-40 min
+aprox.)</td>
+    <td style="width: 25%;">20% <br/>
+    (20 min aprox.)</td>
+    <td style="width: 25%;">20% (20 min aprox.)</td>
+    <td style="width: 25%;">20%(3-5 min aprox.)</td>
   </tr>
 </table>
 
@@ -89,7 +91,7 @@ Se sugiere manejar practicar constantemente con los siguientes temas:
 - [My Family](#my-family-160-words)
 - [My Daily Routine](#my-daily-routine-180-words)
 - [My Hobby Or My Free Time](#my-hobby-or-my-free-time-150-words)
-- Our Vacation
+- [Our Vacation](#our-vacation)
 - Preparaing food
 - The House	
 
@@ -133,3 +135,20 @@ I often read a software engineer book in the evening. They are very entertaining
 I always watch a good movie with my wife and my daughter before sleeping, but we sometimes go to movies on Saturday's or Sunday’s afternoon. We really like watching drama movies because always they provide a good storyline. 
 
 Thank you, bye.
+
+
+### Our Vacation **(150 words)**
+---
+
+Hi, nice to meet you. My name is Ricardo.
+
+Well, last year, I had the chance to visit the Oxapampa City in three days. I went with my daughter, my wife, and some friends.
+
+We traveled in my car for ten hours from Lima to Oxapampa. We arrived in Oxapampa at 7 in the morning. First, we stayed at the Burj Oxa hotel. The hotel had an elegant restaurant, a beautiful art gallery and a large swimming pool.
+
+We went to visit many places during the three days. We went a big waterfall, a nice zoo, a small museum and a beautiful church. We took lots of photos in each place. Also, we ate the typical food.
+
+Last day, we bought a lot of souvenirs and we returned to Lima at night.  I had a great time with my family and my friends. We spent three amazing days in Oxapampa.
+
+Thank you, bye.
+
