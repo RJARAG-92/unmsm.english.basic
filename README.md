@@ -44,8 +44,8 @@ El tabla siguiente se visualiza la distribución de la calificación de cada sub
 aprox.)</td>
     <td style="width: 25%;">20% <br/>
     (20 min aprox.)</td>
-    <td style="width: 25%;">20% (20 min aprox.)</td>
-    <td style="width: 25%;">20%(3-5 min aprox.)</td>
+    <td style="width: 25%;">20%  <br/>(20 min aprox.)</td>
+    <td style="width: 25%;">20% <br/>(3-5 min aprox.)</td>
   </tr>
 </table>
 
