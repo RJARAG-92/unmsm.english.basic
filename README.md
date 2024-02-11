@@ -130,15 +130,15 @@ Thanks, bye.
 
 ### My Hobby Or My Free Time **(150 words)**
 ---
-Hi, nice meet you, my name is Ricardo. Well, I always do the same thing in my free time.
+Hi, nice meet you, my name is Ricardo. Well, my free time is always the same.
 
 I like playing soccer on the weekend, reading a book and watching a good movie every day.
 
 I go to the park near my house to play soccer on Saturday mornings. I usually play soccer with my friends from 7 AM to 9 AM. I think playing soccer is good for my body.
 
-I often read a software engineer book in the evening. They are very entertaining to me. I usually read from 6PM to 7PM. I like to read a lot because it is very important for my training.
+I often read a Software Engineer's book in the evenings. I find them very entertaining. I usually read from 6PM to 7PM. I really like to read, because it is very important for my training.
 
-I always watch a good movie with my wife and my daughter before sleeping, but we sometimes go to movies on Saturday's or Sunday’s afternoon. We really like watching drama movies because always they provide a good storyline. 
+I always watch a good movie with my wife and my daughter before sleeping, but we sometimes go to movies on Saturday or Sunday afternoons. We really like watching drama movies, because always they provide a good storyline. 
 
 Thank you, bye.
 
