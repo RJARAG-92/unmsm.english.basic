@@ -19,7 +19,7 @@ Ver documentación de repaso [Aquí](https://github.com/RJARAG-92/unmsm.english.
 - [Comprensión Escrita](#comprensión-escrita)
 - [Comprensión Oral](#comprensión-oral)
 - [Producción Escrita](#producción-escrita)
-- [Comprensión Oral](#producción-oral)
+- [Producción Oral](#producción-oral)
 - [Ejercicios Resueltos](#ejercicios-resueltos)
 - [Conclusiones](#Conclusiones)
 
@@ -168,6 +168,13 @@ I usually come back home at 8 pm.
 I really like my job.
 
 Thank you, bye
+
+## Producción Oral
+---
+Capacidad de expresión oral mediante la comunicación espontánea
+y formal por indicadores de fluidez, organización de unidades significativas
+según los marcos personales, culturales y académicos adquiridos.
+
 
 ## Ejercicios Resueltos
 ---
