@@ -90,7 +90,7 @@ En está sección, el examen presenta la producción de un texto al menos con 12
 
 Se sugiere manejar practicar constantemente con los siguientes temas:
  
-- [My Family](#my-family-160-words)
+- [My Family](#my-family-150-words)
 - [My Daily Routine](#my-daily-routine-180-words)
 - [My Hobby Or My Free Time](#my-hobby-or-my-free-time-150-words)
 - [Our Vacation](#our-vacation-150-words)
@@ -98,29 +98,32 @@ Se sugiere manejar practicar constantemente con los siguientes temas:
 - Preparaing food
 - The House	
 
-### My Family **(160 words)**
+### My Family **(150 words)**
 ---
-Hi, nice to meet you, my name is Ricardo. I am from Peru. I am thirty-two years old. I live with my wife and my daughter in Chimbote City. Their names are Danna and Lola. We have a small dog. His name is Michaell, it’s very funny.
+Hi, nice to meet you, my name is Ricardo. I am from Peru. I am thirty-two years old. I live with my wife and my daughter in Chimbote City. Their names are Danna and Lola. We have a small dog. Her name is Michael and she is very funny.
 
-I am an engineer. I work in a big Casino in the center of Chimbote. I love Mexican food. I can play soccer, but I can't play tennis. I usually play soccer with my friends on the weekend. 
+I am an engineer. I work in a big Casino in the center of Chimbote. I love play soccer. I usually play soccer with my friends on the weekend. 
 
-My wife Danna is an engineer too, she works in a big university near Chimbote. She hate Mexican food but She loves Peruvian food. She always reads a book at night. She reads a lot.
+My wife Dana is also an engineer, she works at a large university near Chimbote. She can speak English very well. She really likes to read. She always reads a book at night.
 
-My daughter Lola is a smart student. She studies at school San Jose near my house. She can swim in the pool. She often swims on the Saturday's mornings.
+My daughter Lola is an intelligent student. She studies at the San José school near my house. She likes to swim in the pool. She usually swims with her friends on Saturday mornings.
 
-My family is very important to me. We are a happy family. Thanks, bye.
+My family is very important to me. We are a happy family. 
+
+Thanks, bye.
 
 
-### My Daily Routine **(180 words)**
+### My Daily Routine **(150 words)**
 ---
 Hi, my name is Ricardo. Well, from Monday to Friday, my daily routine is always the same. I usually get up six o'clock in the morning. I often go to gym to exercise for twenty minutes. Then, I come back home, take a shower, get dressed and I eat breakfast for fifteen minutes. My breakfast consists of an apple, a cup coffee with milk and some eggs. 
 
 I often catch the bus near my house to go to work. I usually arrive at the office at eight fifty, because I start work at nine o'clock.
+
 My workdays are always interesting. I am a software engineer. I like my job. I sometimes eat lunch out of the office between 2 PM and 3 PM. I often come back home at 7 PM.
 
 In the evening, I usually eat dinner and watch TV with family. Finally, I get bed at 11 PM.
 
-Weekend for me, are usually the same. I often go to the movies my family on Saturdays. Also, we always eat lunch out of the home on Sunday. 
+Weekend for me, are usually the same. I often go to the movies with my family on Saturdays. Also, we always eat lunch out of the home on Sunday. 
 
 Thanks, bye.
 
