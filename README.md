@@ -119,7 +119,7 @@ Hi, my name is Ricardo. Well, from Monday to Friday, my daily routine is always 
 
 I often catch the bus near my house to go to work. I usually arrive at the office at eight fifty, because I start work at nine o'clock.
 
-My workdays are always interesting. I am a software engineer. I like my job. I sometimes eat lunch out of the office between 2 PM and 3 PM. I often come back home at 7 PM.
+My workdays are always interesting. I am a software engineer. I like my job. I often eat lunch out of the office between 2 PM and 3 PM. I often come back home at 7 PM.
 
 In the evening, I usually eat dinner and watch TV with family. Finally, I get bed at 11 PM.
 
