@@ -136,7 +136,7 @@ Hi, nice to meet you. My name is Ricardo.
 
 Well, last year, I had the chance to visit the Oxapampa City in three days. I went with my daughter, my wife, and my two best friends.
 
-We traveled in my car for ten hours from Lima to Oxapampa. We arrived in Oxapampa at 7 in the morning. First, we stayed at the Burj Oxa hotel. The hotel had an elegant restaurant, a beautiful art gallery and a large swimming pool.
+We traveled in my car from Lima to Oxapampa for ten hours. We arrived in Oxapampa at 7 in the morning. First, we stayed at the Burj Oxa hotel. The hotel had an elegant restaurant, a beautiful art gallery and a large swimming pool.
 
 We went to visit many places during the three days. We went a big waterfall, a nice zoo, a small museum and a beautiful church. We took lots of photos in each place. Also, we ate the typical food. It was so fantastic
 
