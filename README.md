@@ -90,27 +90,13 @@ En está sección, el examen presenta la producción de un texto al menos con 12
 
 Se sugiere manejar practicar constantemente con los siguientes temas:
  
-- [My Family](#my-family-150-words)
 - [My Daily Routine](#my-daily-routine-150-words)
 - [My Hobby Or My Free Time](#my-hobby-or-my-free-time-150-words)
 - [Our Vacation](#our-vacation-150-words)
+- [My Family](#my-family-150-words)
 - [What do you do at Work?](#what-do-you-do-at-work?-130-words)
 - Preparaing food
 - The House	
-
-### My Family **(150 words)**
----
-Hi, nice to meet you, my name is Ricardo. I am from Peru. I am thirty-two years old. I live with my wife and my daughter in the Chimbote City. Their names are Danna and Lola. We have a small dog. Her name is Michael and she is very funny.
-
-I am an engineer. I work in a big Casino in the center of Chimbote. I love play soccer. I usually play soccer with my friends on the weekend. 
-
-My wife Dana is an engineer too, she works at a large university near Chimbote. She can speak English very well. She really likes to read. She always reads a book at night.
-
-My daughter Lola is a smart student. She studies at the San Jose school near my house. She likes to swim in the pool. She usually swims with her friends on Saturday mornings.
-
-My family is very important to me. We are a happy family. 
-
-Thanks, bye.
 
 
 ### My Daily Routine **(150 words)**
@@ -157,6 +143,20 @@ We went to visit many places during the three days. We went a big waterfall, a n
 Last day, we bought a lot of souvenirs and we returned to Lima at night.  I had a great time with my family and my friends. We spent three amazing days in Oxapampa.
 
 Thank you, bye.
+
+### My Family **(150 words)**
+---
+Hi, nice to meet you, my name is Ricardo. I am from Peru. I am thirty-two years old. I live with my wife and my daughter in the Chimbote City. Their names are Danna and Lola. We have a small dog. Her name is Michael and she is very funny.
+
+I am an engineer. I work in a big Casino in the center of Chimbote. I love play soccer. I usually play soccer with my friends on the weekend. 
+
+My wife Dana is an engineer too, she works at a large university near Chimbote. She can speak English very well. She really likes to read. She always reads a book at night.
+
+My daughter Lola is a smart student. She studies at the San Jose school near my house. She likes to swim in the pool. She usually swims with her friends on Saturday mornings.
+
+My family is very important to me. We are a happy family. 
+
+Thanks, bye.
 
 ### What do you do at work? **(130 words)**
 ---
