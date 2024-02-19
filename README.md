@@ -100,13 +100,13 @@ Se sugiere manejar practicar constantemente con los siguientes temas:
 
 ### My Family **(150 words)**
 ---
-Hi, nice to meet you, my name is Ricardo. I am from Peru. I am thirty-two years old. I live with my wife and my daughter in Chimbote City. Their names are Danna and Lola. We have a small dog. Her name is Michael and she is very funny.
+Hi, nice to meet you, my name is Ricardo. I am from Peru. I am thirty-two years old. I live with my wife and my daughter in the Chimbote City. Their names are Danna and Lola. We have a small dog. Her name is Michael and she is very funny.
 
 I am an engineer. I work in a big Casino in the center of Chimbote. I love play soccer. I usually play soccer with my friends on the weekend. 
 
-My wife Dana is also an engineer, she works at a large university near Chimbote. She can speak English very well. She really likes to read. She always reads a book at night.
+My wife Dana is an engineer too, she works at a large university near Chimbote. She can speak English very well. She really likes to read. She always reads a book at night.
 
-My daughter Lola is an intelligent student. She studies at the San José school near my house. She likes to swim in the pool. She usually swims with her friends on Saturday mornings.
+My daughter Lola is a smart student. She studies at the San Jose school near my house. She likes to swim in the pool. She usually swims with her friends on Saturday mornings.
 
 My family is very important to me. We are a happy family. 
 
