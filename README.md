@@ -152,7 +152,7 @@ Well, last year, I had the chance to visit the Oxapampa City in three days. I we
 
 We traveled in my car for ten hours from Lima to Oxapampa. We arrived in Oxapampa at 7 in the morning. First, we stayed at the Burj Oxa hotel. The hotel had an elegant restaurant, a beautiful art gallery and a large swimming pool.
 
-We went to visit many places during the three days. We went a big waterfall, a nice zoo, a small museum and a beautiful church. We took lots of photos in each place. Also, we ate the typical food.
+We went to visit many places during the three days. We went a big waterfall, a nice zoo, a small museum and a beautiful church. We took lots of photos in each place. Also, we ate the typical food. It was so fantastic
 
 Last day, we bought a lot of souvenirs and we returned to Lima at night.  I had a great time with my family and my friends. We spent three amazing days in Oxapampa.
 
@@ -182,3 +182,4 @@ según los marcos personales, culturales y académicos adquiridos.
 - [Lesson 3 & 4 (A1)]
 - [Lesson 9 & 10](https://docs.google.com/forms/d/e/1FAIpQLSeWPAz8XndIBXk3nOOdtI6vehOXRHhXo5P9jGGdChfhVmjeeg/viewscore?viewscore=AE0zAgD_NR8yQ3A73xh-uVZWS5iX7-UIq1RdwjMMk8miqEGtrMoKa5WaZCHFsrsTT61cVcs)
 - [Lesson 11 & 12](https://docs.google.com/forms/d/e/1FAIpQLSfskZ8oP0TtK_GJRWrQlt_4T1RLlLdo8bI3N_VGxaaf8uX4iw/viewscore?viewscore=AE0zAgC1bY594ZlxISwUjfaGzwJIbVjVAzHRYtnGtBCPyNBdgtKsLlVTqGLZROerqbb44jY)
+- [Lesson 13 & 14](https://docs.google.com/forms/d/e/1FAIpQLSc_H2RQP6f2g0n6TpQ_GHfwKiS3NuTk1i52HiF192QjmV7RKg/viewscore?viewscore=AE0zAgBrDEWPTKu0xXVB0cy0LPxnMfdydE9QxeUeoupYKtKzCwxgYdhwvZgy8KTrdaEeLGc)
