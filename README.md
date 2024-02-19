@@ -134,7 +134,7 @@ Thank you, bye.
 
 Hi, nice to meet you. My name is Ricardo.
 
-Well, last year, I had the chance to visit the Oxapampa City in three days. I went with my daughter, my wife, and some friends.
+Well, last year, I had the chance to visit the Oxapampa City in three days. I went with my daughter, my wife, and my two best friends.
 
 We traveled in my car for ten hours from Lima to Oxapampa. We arrived in Oxapampa at 7 in the morning. First, we stayed at the Burj Oxa hotel. The hotel had an elegant restaurant, a beautiful art gallery and a large swimming pool.
 
