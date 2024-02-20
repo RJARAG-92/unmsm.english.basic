@@ -95,6 +95,7 @@ Se sugiere manejar practicar constantemente con los siguientes temas:
 - [Our Vacation](#our-vacation-150-words)
 - [My Family](#my-family-150-words)
 - [What do you do at Work?](#what-do-you-do-at-work?-130-words)
+- [Entertain at home?](#entertain-at-home?-120-words)
 - Preparaing food
 - The House	
 
@@ -158,7 +159,8 @@ My family is very important to me. We are a happy family.
 
 Thanks, bye.
 
-### What do you do at work? **(130 words)**
+### What do you do at work? **130-words**
+    
 ---
 Hi, nice to meet you. My name is Ricardo. Well, my workday is always the same, but often it is very interesting. 
 
@@ -168,6 +170,20 @@ I usually come back home at 8 pm.
 I really like my job.
 
 Thank you, bye
+
+### Entertain At Home? **(120 words)**
+---
+Well, I always do the same thing to entertain myself.
+I like playing video games on the weekend, reading a book and watching a good movie every day.
+
+I usually play video games with my daughter and my best friend on Saturday afternoons. I often play video games from 5 PM to 7 PM. 
+
+I often read a Software Engineer's book in the evenings. I find them very entertaining. I usually read from 6 PM to 7 PM. I really like to read, because it is very important for my training.
+
+I always watch a good movie with my wife and my daughter before sleeping, but we sometimes go to movies on Saturday or Sunday afternoons. We really like watching drama movies, because always they provide a good storyline.
+
+Thanks!
+
 
 ## Producción Oral
 ---
