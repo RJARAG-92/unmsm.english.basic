@@ -94,8 +94,8 @@ Se sugiere manejar practicar constantemente con los siguientes temas:
 - [My Hobby Or My Free Time](#my-hobby-or-my-free-time-150-words)
 - [Our Vacation](#our-vacation-150-words)
 - [My Family](#my-family-150-words)
-- [What do you do at Work?](#what-do-you-do-at-work?-130-words)
-- [Entertain at home?](#entertain-at-home?-120-words)
+- [What do you do at Work?](#what-do-you-do-at-work-130-words)
+- [Entertain at home?](#entertain-at-home-120-words)
 - Preparaing food
 - The House	
 
@@ -190,6 +190,12 @@ Thanks!
 Capacidad de expresión oral mediante la comunicación espontánea
 y formal por indicadores de fluidez, organización de unidades significativas
 según los marcos personales, culturales y académicos adquiridos.
+
+- [What do you do yesterday?](#what-do-you-do-yesterday)
+
+### What do you do yesterday?
+---
+First, I played soccer in the morning. Next, I visited my friends with my family in the afternoon. Finally, I  went the movies  with my family  at night.
 
 
 ## Ejercicios Resueltos
