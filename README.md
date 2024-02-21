@@ -192,10 +192,20 @@ y formal por indicadores de fluidez, organización de unidades significativas
 según los marcos personales, culturales y académicos adquiridos.
 
 - [What do you do yesterday?](#what-do-you-do-yesterday)
+- [What would you like to do this weekend?](#What-would-you-like-to-do-this-weekend)
+- [What would you like to do next vacation?](#What-would-you-like-to-do-next-vacation)
 
 ### What do you do yesterday?
 ---
 First, I played soccer in the morning. Next, I visited my friends with my family in the afternoon. Finally, I  went the movies  with my family  at night.
+
+### What would you like to do this weekend?
+---
+First, I would like to play soccer with my friends in the morning. Next, I would like to visit my parents in the afternoon. Finally, I would like to go to the movies with my family at night.
+
+### What would you like to do next vacation?
+---
+First, I would like to travel with my family to Spain. Next, I would like to stay in a good hotel. Then, I would like to visit many places in Spain. Finally, I would like to buy a lot of souvenirs.
 
 
 ## Ejercicios Resueltos
